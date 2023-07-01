@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.movie{
+    margin-left:110px ;
+    margin-right:110px ;
+    margin-top: 190px;
+    background-color: bisque;
+    align-items: center;
+    text-align: center;
+    
+}
+#mv-part{
+    margin-left:110px ;
+    margin-right:110px ;
+    margin-top: 190px;
+    text-align: center;
+    align-items: center;
+    background-color:bisque;
+}
+input {
+    height: 40px;
+    border-radius: 20px;
+    width: 600px; 
+}
+.movie h1{
+    size: 0px;
+}
+button{
+    height:40px;
+    width:90px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
